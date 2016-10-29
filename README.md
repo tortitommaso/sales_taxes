@@ -73,4 +73,3 @@ Sales Taxes: 6.70
 
 Total: 74.68
 
-
