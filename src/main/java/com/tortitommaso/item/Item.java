@@ -1,12 +1,12 @@
-package item;
+package com.tortitommaso.item;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import price.Price;
-import tax.TaxEvaluator;
+import com.tortitommaso.price.Price;
+import com.tortitommaso.tax.TaxEvaluator;
 
 public class Item {
 

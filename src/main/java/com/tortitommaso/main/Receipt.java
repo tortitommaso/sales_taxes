@@ -1,11 +1,10 @@
-package main;
-
-import item.Item;
+package com.tortitommaso.main;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import price.Price;
+import com.tortitommaso.item.Item;
+import com.tortitommaso.price.Price;
 
 public class Receipt {
 	

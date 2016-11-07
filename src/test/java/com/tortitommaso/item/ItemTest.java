@@ -1,13 +1,12 @@
-package item;
+package com.tortitommaso.item;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
-import item.Item;
 
 import org.junit.Test;
 
-import price.Price;
+import com.tortitommaso.price.Price;
 
 public class ItemTest {
 

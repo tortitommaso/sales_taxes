@@ -1,11 +1,10 @@
-package tax;
-
-import item.Item;
+package com.tortitommaso.tax;
 
 import java.util.Arrays;
 import java.util.List;
 
-import price.Price;
+import com.tortitommaso.item.Item;
+import com.tortitommaso.price.Price;
 
 public class TaxEvaluator {
 

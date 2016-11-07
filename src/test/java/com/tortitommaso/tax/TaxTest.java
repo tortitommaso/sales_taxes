@@ -1,11 +1,11 @@
-package tax;
+package com.tortitommaso.tax;
 
 import static org.junit.Assert.assertEquals;
-import item.Item;
 
 import org.junit.Test;
 
-import price.Price;
+import com.tortitommaso.item.Item;
+import com.tortitommaso.price.Price;
 
 public class TaxTest {
 

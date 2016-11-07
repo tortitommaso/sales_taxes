@@ -1,9 +1,10 @@
-package acceptance;
+package com.tortitommaso.acceptance;
 
 import static org.junit.Assert.assertEquals;
-import main.Receipt;
 
 import org.junit.Test;
+
+import com.tortitommaso.main.Receipt;
 
 public class ReceiptTest {
 

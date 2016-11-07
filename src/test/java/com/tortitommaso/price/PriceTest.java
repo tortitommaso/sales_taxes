@@ -1,12 +1,10 @@
-package price;
+package com.tortitommaso.price;
 
 import static org.junit.Assert.assertEquals;
 
 import java.math.BigDecimal;
 
 import org.junit.Test;
-
-import price.Price;
 
 public class PriceTest {
 

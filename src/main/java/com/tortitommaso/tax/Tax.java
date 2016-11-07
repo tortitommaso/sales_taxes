@@ -1,10 +1,9 @@
-package tax;
-
-import item.Item;
+package com.tortitommaso.tax;
 
 import java.math.BigDecimal;
 
-import price.Price;
+import com.tortitommaso.item.Item;
+import com.tortitommaso.price.Price;
 
 public abstract class Tax {
 

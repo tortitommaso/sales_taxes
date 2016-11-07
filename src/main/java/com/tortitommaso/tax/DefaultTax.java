@@ -1,7 +1,7 @@
-package tax;
+package com.tortitommaso.tax;
 
-import item.Item;
-import price.Price;
+import com.tortitommaso.item.Item;
+import com.tortitommaso.price.Price;
 
 public class DefaultTax extends Tax {
 
